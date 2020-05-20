@@ -174,5 +174,5 @@ app.get('/refresh_token', function(req, res) {
   });
 });
 app.get('/', function(req, res){
-    res.send('hello world')
+    res.redirect("'/public/index.html'")
 });
