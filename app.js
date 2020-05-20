@@ -15,7 +15,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = '3cbc3d610d1a4417b7724c89d07b3108'; // Your client id
 var client_secret = 'f02ff1d135654391918df381edcb51f9'; // Your secret
-var redirect_uri = "http://localhost:8888/callback/"; // Your redirect uri 
+var redirect_uri = "https://obscure-ravine-59754.herokuapp.com/callback/"; // Your redirect uri 
 
 /**
  * Generates a random string containing numbers and letters
