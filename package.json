@@ -1,0 +1,28 @@
+{
+  "name": "main_character",
+  "version": "1.0.0",
+  "description": "a website that tells you whether or not you are the main character based on your Spotify history",
+  "main": "app.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cookieparser": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "spotify-web-api-node": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start",
+  },
+  "repository": {
+    "type": "git",
+    "url": "maincharacter"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "jennyspruitt",
+  "license": "ISC"
+}
