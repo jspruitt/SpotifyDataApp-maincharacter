@@ -7,7 +7,7 @@
     "cookie-parser": "^1.4.5",
     "cookieparser": "^0.1.0",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "querystring": "^0.2.0",
     "request": "^2.88.2",
     "spotify-web-api-node": "^4.0.0"
